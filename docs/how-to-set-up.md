@@ -1,4 +1,4 @@
-# :computer: How to Set Up
+# :computer: 環境構築について
 
 Windows 向けに書かれています。Windows 以外の OS については知りません(無責任)。  
 

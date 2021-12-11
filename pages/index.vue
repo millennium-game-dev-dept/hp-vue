@@ -9,8 +9,8 @@
           ミレニアムゲーム開発部へようこそ！
         </v-card-title>
         <v-card-text>
-          <p>ミレニアムゲーム開発部は、<a href="https://bluearchive.jp" target="_blank" rel="noopener noreferrer"
-          ><MillenniumLogo />ミレニアムサイエンススクール</a>で活動している、創作全般の総合サークル部活です！絵を描いたり、シナリオを作ったり、たまに (いつも) ゲームをしたりします。</p>
+          <p>　ミレニアムゲーム開発部は、<a href="https://bluearchive.jp" target="_blank" rel="noopener noreferrer"
+          ><MillenniumLogo />ミレニアムサイエンススクール</a>で活動している、創作全般の総合サークル部活です！　絵を描いたり、シナリオを作ったり、たまに (いつも) ゲームをしたりします。</p>
           <br>
           <p>
             Twitter: <a
@@ -31,12 +31,11 @@
             </a>
           </p>
           <p>
-            Mail Address: <a
-              href="https://twitter.com/Blue_ArchiveJP"
-              target="_blank"
+            Mail: <a
+              href="mailto:games-dev-dept@ed.millennium.com"
               rel="noopener noreferrer"
             >
-              millennium-games
+              games-dev-dept@ed.millennium.com
             </a>
           </p>
           <p>お気軽に DM ください！</p>

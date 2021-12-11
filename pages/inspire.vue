@@ -2,8 +2,8 @@
   <v-row>
     <v-col class="text-center">
       <img
-        src="/mascot.png"
-        alt="mascot.js"
+        src="../static/mascot.png"
+        alt="mascot.png"
         class="mb-5"
       >
       <blockquote class="blockquote">
