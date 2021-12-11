@@ -3,10 +3,10 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - Vue Testing',
-    title: 'arona',
+    titleTemplate: '%s',
+    title: 'ミレニアムゲーム開発部',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'jp'
     },
     meta: [
       { charset: 'utf-8' },
@@ -68,6 +68,6 @@ export default {
   // @see https://nuxtjs.org/deployments/github-pages/
   target: 'static',
   router: {
-    base: '/web/'
+    base: '/millennium-game-dev-dept/'
   }
 }
