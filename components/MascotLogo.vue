@@ -1,13 +1,9 @@
 <template>
-  <img
-    class="game-dev-dept-logo"
-    alt="mascot"
-    src="../static/mascot.svg"
-  >
+  <img class="mascot-logo" alt="mascot" src="../static/mascot.svg">
 </template>
 
 <style>
-.game-dev-dept-logo {
+.mascot-logo {
   height: 120px;
   width: 120px;
   transform: rotateY(560deg);

@@ -22,3 +22,4 @@
 * [フリーアイコンSVG、PNG、ICNS](https://icon-icons.com/ja/)  
 * [Twitter Brand Toolkit](https://about.twitter.com/en/who-we-are/brand-toolkit)
 * [YouTube Brand Resources](https://www.youtube.com/intl/ja/howyoutubeworks/resources/brand-resources/)
+* [icons8 - Github White](https://icons8.jp/icons/set/github--white)
