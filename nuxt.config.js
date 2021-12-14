@@ -4,16 +4,23 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '%s',
-    title: 'ミレニアムゲーム開発部',
+    title: 'ミレニアムゲーム開発部 HP',
     htmlAttrs: { lang: 'jp' },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' }
+      { name: 'format-detection', content: 'telephone=no' },
+      { hid: 'description', name: 'description', content: 'ミレニアムゲーム開発部の HP です。文化祭で出したゲームなどがあります。' },
+      { property: 'og:title', content: 'ミレニアムゲーム開発部 HP' },
+      { property: 'og:description', content: 'ミレニアムゲーム開発部の HP です。文化祭で出したゲームなどがあります。' },
+      { property: 'og:type', content: 'article' },
+      { property: 'og:url', content: 'https://moyomogi.github.io/millennium-game-dev-dept/' },
+      { property: 'og:image', content: 'https://i.imgur.com/PIg9JmR.png' },
+      { property: 'og:site_name', content: 'ミレニアムゲーム開発部 HP' },
+      { property: 'og:locale', content: 'ja_JP' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: 'static/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
 
