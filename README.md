@@ -8,14 +8,13 @@
 
 <img src="https://i.imgur.com/ta8QePb.png" title="midori" width="180">  
 
+## TODO
+- [ ] *.md 形式の記事から *.vue を生成したい(むずそう)。
+
 ## :computer: 環境構築について
 [docs/how-to-set-up.md](https://github.com/moyomogi/millennium-game-dev-dept/blob/master/docs/how-to-set-up.md) を見てください。  
 
 ## :thought_balloon: その他のこと
-- Web アプリフレームワークの [Nuxt.js](https://nuxtjs.org) を使って作られています。  
+- Web アプリフレームワークの [NuxtJS](https://nuxtjs.org) を使って作られています。  
 - UI は [Vuetify](https://vuetifyjs.com/ja/) という UI ライブラリを使っています。  
 - ウェブサイトの実態は [gh-pages branch](https://github.com/moyomogi/millennium-game-dev-dept/tree/gh-pages) にあります。  
-  * [prev.rust-lang.org](https://prev.rust-lang.org/ja-JP/legal.html)
-  * [vuejs/art](https://github.com/vuejs/art)
-  * [NuxtJS Design Kit](https://nuxtjs.org/design/)
-  * [iconmonstr.com](https://iconmonstr.com/email-4-svg/)

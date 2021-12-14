@@ -45,7 +45,7 @@ export default {
       items: [
         {
           icon: 'mdi-apps',
-          title: 'ゲーム開発部とは？',
+          title: 'ゲーム開発部について',
           to: '/'
         },
         {

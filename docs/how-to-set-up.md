@@ -49,6 +49,30 @@ yarn add typescript --dev
 Nuxt.js とは、[Vue.js](https://v3.ja.vuejs.org/) を使うための、Web アプリフレームワークです。  
 [Nuxt.js の公式インストールガイド](https://nuxtjs.org/ja/docs/get-started/installation/) に従い、 WSL 上で `yarn create nuxt-app <my-project>` をします。  
 
+## `create-nuxt-app` の option について
+僕が、このプロジェクトを作った時の、全オプションを記載しておきます。  
+create-nuxt-app の全オプションは、[このレポジトリ](https://github.com/nuxt/create-nuxt-app) にあります。  
+以下において `<my-project>` は自由に決めていただいて構いません。しかし、決めあぐねているならば、僕は `<my-project>` を `arona` としたので同じにしておけばいいです。  
+
+```sh
+$ yarn create nuxt-app <my-project>
+* create-nuxt-app v3.7.1
+✨  Generating Nuxt.js project in <my-project>
+? Project name: <my-project>
+? Programming language: TypeScript
+? Package manager: Yarn
+? UI framework: Vuetify.js
+? Nuxt.js modules: Axios
+? Linting tools: ESLint
+? Testing framework: Jest
+? Rendering mode: Universal (SSR / SSG)
+? Deployment target: Server (Node.js hosting)
+? Development tools: Dependabot
+? Continuous integration: None
+? What is your GitHub username? moyomogi
+? Version control system: Git
+```
+
 ## おわり
 最後に `yarn dev` とすると、[http://localhost:3000/millennium-game-dev-dept/](http://localhost:3000/millennium-game-dev-dept/) からサイトが見えるようになります。  
 
